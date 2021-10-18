@@ -8,3 +8,6 @@ This is a simple work day scheduler.
 
 ### Website URL
 https://ygorcarmo.github.io/work-schedule/
+
+### License & copyright
+Licensed under the [MIT License](LICENSE).
